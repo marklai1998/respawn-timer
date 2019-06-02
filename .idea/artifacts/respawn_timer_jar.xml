@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="respawn-timer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/respawn_timer_jar</output-path>
+    <root id="archive" name="respawn-timer.jar">
+      <element id="module-output" name="respawn-timer" />
+    </root>
+  </artifact>
+</component>

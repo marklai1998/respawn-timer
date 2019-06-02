@@ -1,0 +1,5 @@
+name: RespawnTimer
+main: com.mrmatches.RespawnTimer.RespawnTimer
+version: 0.0.1
+authors: [MrMatchesExMark]
+description: Add a respawn time delay after player death
